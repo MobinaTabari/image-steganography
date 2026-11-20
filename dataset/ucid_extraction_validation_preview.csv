@@ -1,0 +1,13 @@
+source_id,split,method,payload_rate,success,error
+ucid_0000,train,sequential,0.05,True,
+ucid_0000,train,prng,0.05,True,
+ucid_0000,train,sequential,0.15,True,
+ucid_0000,train,prng,0.15,True,
+ucid_0000,train,sequential,0.3,True,
+ucid_0000,train,prng,0.3,True,
+ucid_0001,train,sequential,0.05,True,
+ucid_0001,train,prng,0.05,True,
+ucid_0001,train,sequential,0.15,True,
+ucid_0001,train,prng,0.15,True,
+ucid_0001,train,sequential,0.3,True,
+ucid_0001,train,prng,0.3,True,
